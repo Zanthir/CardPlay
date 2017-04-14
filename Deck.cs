@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace HelloWorld {
     public class Deck {
-        public List<Card> Cards;
+        private List<Card> Cards;
 
         public Deck(){
             var ranks = Enum.GetValues(typeof(Rank)).Cast<Rank>();
