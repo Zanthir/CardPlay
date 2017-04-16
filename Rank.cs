@@ -1,4 +1,4 @@
-namespace HelloWorld {
+namespace CardPlay {
 
     public enum Rank {
         Ace=1,

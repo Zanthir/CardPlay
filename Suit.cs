@@ -1,4 +1,4 @@
-namespace HelloWorld {
+namespace CardPlay {
     public enum Suit {
         Clubs,
         Diamonds,

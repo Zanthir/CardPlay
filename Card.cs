@@ -1,6 +1,6 @@
 using System;
 
-namespace HelloWorld {
+namespace CardPlay {
     public class Card : IComparable {
         public readonly Rank Rank;
         public readonly Suit Suit;
